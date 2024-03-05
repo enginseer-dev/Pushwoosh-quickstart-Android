@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_test_empty_pw_app</string>
+    <string name="fcm_sender_id">797141322179</string>
+</resources>
