@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_test_empty_pw_app"
         tools:targetApi="31">
-        <meta-data android:name="com.pushwoosh.appid" android:value="7FDDF-F5573" />
+        <meta-data android:name="com.pushwoosh.appid" android:value="YOUR_APP_CODE" />
         <meta-data android:name="com.pushwoosh.senderid" android:value="@string/fcm_sender_id" />
         <activity
             android:name=".MainActivity"
